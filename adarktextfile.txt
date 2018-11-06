@@ -3,6 +3,10 @@ Please enjoy this text file of darkness. A hellmouth of absolute pain, the text 
 
 While this text file is not bespoke, you may think of it as casually tossed in your direction.
 
-This is an edited sentence that appeared randomly.
+This is an edited sentence that appeared randomly. And then another appeared. The reader was concerned for some times - was his/her/their saccades broken, so that each. new. word. from the ever-approaching right side was a surprise. What a terrifying future-agnostic existence!
 
-This text file should be treated not as a service, but merely provided as-is, with no warranty or guarantees that the feeling of horror/blessedness will be recieved, or be long-lasting.
+This text file should be treated not as a service, but merely provided as-is [1], with no warranty or guarantees that the feeling of horror/blessedness will be recieved, or be long-lasting.
+
+[1] as of the latest commit, at any given time.
+
+
