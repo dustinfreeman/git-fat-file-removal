@@ -1,0 +1,55 @@
+5.4M	./capitalized-jpgs
+4.2M	./.git/objects/0d
+4.0K	./.git/objects/9b
+4.0K	./.git/objects/0b
+4.0K	./.git/objects/94
+4.0K	./.git/objects/df
+4.0K	./.git/objects/d1
+4.0K	./.git/objects/ab
+4.0K	./.git/objects/f4
+2.3M	./.git/objects/c8
+4.0K	./.git/objects/27
+8.0K	./.git/objects/pack
+2.1M	./.git/objects/16
+1.1M	./.git/objects/7b
+1.9M	./.git/objects/7e
+896K	./.git/objects/2f
+  0B	./.git/objects/info
+4.0K	./.git/objects/65
+4.0K	./.git/objects/0a
+4.0K	./.git/objects/b1
+3.2M	./.git/objects/b6
+824K	./.git/objects/c4
+4.0K	./.git/objects/e1
+4.0K	./.git/objects/f9
+4.0K	./.git/objects/c2
+4.0K	./.git/objects/70
+4.0K	./.git/objects/82
+ 17M	./.git/objects
+4.0K	./.git/info
+4.0K	./.git/logs/refs/heads
+8.0K	./.git/logs/refs/remotes/origin
+8.0K	./.git/logs/refs/remotes
+ 12K	./.git/logs/refs
+ 16K	./.git/logs
+ 48K	./.git/hooks
+4.0K	./.git/refs/heads
+  0B	./.git/refs/tags
+8.0K	./.git/refs/remotes/origin
+8.0K	./.git/refs/remotes
+ 12K	./.git/refs
+ 17M	./.git
+ 34M	.
+4.0K	LICENSE
+2.6M	MusicHackathonRenamed.mov
+4.0K	README.md
+852K	ShinjiDadPlans.jpg
+1.9M	WestworldWantedPoster.jpg
+4.0K	adarktextfile.txt
+4.0K	atextfile.txt
+  0B	atextfile.txt~
+5.4M	capitalized-jpgs
+920K	chessboard.jpg
+4.0K	du-pre-delete.txt
+1.1M	image-jan.png
+5.0M	video-gitlfs.mp4
