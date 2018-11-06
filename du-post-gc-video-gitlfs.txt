@@ -1,0 +1,34 @@
+2.1M	./capitalized-jpgs
+ 12M	./.git/objects/pack
+4.0K	./.git/objects/info
+ 12M	./.git/objects
+8.0K	./.git/info
+  0B	./.git/logs/refs/heads
+  0B	./.git/logs/refs/remotes/origin
+  0B	./.git/logs/refs/remotes
+  0B	./.git/logs/refs
+  0B	./.git/logs
+ 48K	./.git/hooks
+  0B	./.git/refs/heads
+  0B	./.git/refs/tags
+4.0K	./.git/refs/remotes/origin
+4.0K	./.git/refs/remotes
+4.0K	./.git/refs
+ 12M	./.git
+ 22M	.
+4.0K	LICENSE
+2.6M	MusicHackathonRenamed.mov
+4.0K	README.md
+852K	ShinjiDadPlans.jpg
+1.9M	WestworldWantedPoster.jpg
+4.0K	adarktextfile.txt
+4.0K	atextfile.txt
+  0B	atextfile.txt~
+2.1M	capitalized-jpgs
+920K	chessboard.jpg
+4.0K	du-post-delete-1.txt
+4.0K	du-post-delete-video-gitlfs.txt
+4.0K	du-post-gc-video-gitlfs.txt
+4.0K	du-pre-delete-video-gitlfs.txt
+4.0K	du-pre-delete.txt
+1.1M	image-jan.png
